@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/kavipalmer/Desktop/Programming/GitHub Portfolio/jokeMgr/Category.h
+string
+-
+
+/Users/kavipalmer/Desktop/Programming/GitHub Portfolio/jokeMgr/joke.h
+string
+-
+
+/Users/kavipalmer/Desktop/Programming/GitHub Portfolio/jokeMgr/jokeMgr.cpp
+jokeMgr.h
+/Users/kavipalmer/Desktop/Programming/GitHub Portfolio/jokeMgr/jokeMgr.h
+
+/Users/kavipalmer/Desktop/Programming/GitHub Portfolio/jokeMgr/jokeMgr.h
+joke.h
+/Users/kavipalmer/Desktop/Programming/GitHub Portfolio/jokeMgr/joke.h
+Category.h
+/Users/kavipalmer/Desktop/Programming/GitHub Portfolio/jokeMgr/Category.h
+
+/Users/kavipalmer/Desktop/Programming/GitHub Portfolio/jokeMgr/main.cpp
+iostream
+-
+jokeMgr.h
+/Users/kavipalmer/Desktop/Programming/GitHub Portfolio/jokeMgr/jokeMgr.h
+
